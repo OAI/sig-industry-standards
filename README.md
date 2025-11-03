@@ -16,7 +16,7 @@ You can:
 
 ### About this repo
 This repo covers two main topics:
-- Details about our SIG meetings and [work program]([url](https://github.com/OAI/sig-industry-standards/blob/main/work-program.md))
+- Details about our SIG meetings and [work program](https://github.com/OAI/sig-industry-standards/blob/main/work-program.md)
 - A [directory about industry standards that are aligned with OpenAPI](https://github.com/OAI/sig-industry-standards/blob/main/Organizations.md) in some way, for example, their API standards explicitly mention that APIs should include an OpenAPI description for each API.
 
 ### Slack channel
