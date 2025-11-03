@@ -30,7 +30,7 @@ Meetings are held at 9.30 am Pacific Time, every second Monday, starting from 7 
 - Join the SIG Slack channel
 - We will add you to the invites for the meetings.
 
-## If you work with an in dustry standards body...
+## If you work with an industry standards body...
 We would like to discuss how to support your adoption of the OpenAPI Specification in your standards and as a mechanism to help you grow your ecosystem.
 
 We have a short survey you can complete to help us understand your priorities for using OpenAPI and what would make it easier for you.
