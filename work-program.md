@@ -5,7 +5,8 @@
 ## Goals
 *External benefits of OAS for standards bodies*
 - To provide resources to support industry standards groups with API standards to grow their ecosystems by leveraging OpenAPI Specification standards including Overlays and Arazzo
-- To provide resources to support OpenAPI ecosystem stakeholders, primarily tools providers and members, to understand other industry standards and to adopt/align with them where possible
+- To provide resources to support OpenAPI ecosystem stakeholders, primarily tools providers and members, to understand other industry standards and to adopt/align with them where possible<br>
+
 *Internal benefits to OAS from standards bodies*
 - To build relationships with up to 10 industry standards groups that have specific API standards and encourage alignment with OpenAPI Specification
 - To define a membership revenue pathway strategy from industry standards groups and their members to OAI that can be tested from July 2026 for 6 months
