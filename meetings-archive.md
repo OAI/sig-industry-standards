@@ -2,7 +2,16 @@
 
 This page includes links to the zoom meeting videos and transcripst for previous meetings of the OpenAPI Industry Standards SIG
 
-## 23 February 2026 (UPCOMING)
+## 9 March 2026
+### Agenda
+- Finalise proposed workplan (https://docs.google.com/document/d/1jAVdH_3D94VbNYDM06OvCl0TEUYyeurN_pHhGAp3THs/edit?usp=sharing)
+- Update on existing industry outreach:
+  - FAPI (appoint Ambassador?)
+  - Dutch Government (appoint Ambassador?)
+  - UNTP (appoint Ambassador?)
+- 15 minute additional meeting: Discuiss and progress thge task: Develop document that clarifies the benefits of aligning with OpenAPI from a non-technical angle
+
+## 23 February 2026
 ### Agenda
 - Identify and agree on roles of participants and SIG officers
 - Discuss how to manage multiple roles when working with external standards bodies
@@ -12,6 +21,22 @@ This page includes links to the zoom meeting videos and transcripst for previous
   - Dutch Government
   - UNTP
 
+### Attendance
+6 participants (Mark Boyd, Sandeep Chakravartty, Pooja Vijay Kumar, Abhishek Nayak, Chris Robbertse, Chris Wood)
+
+### Link to video
+[https://zoom.us/rec/share/YhnkGvJ9XzHSqqbJDYb8hr-cOrv9NVbyIi3vHxUriYTI4RXl_yxzPLpoCcMtszg3.OEunZWRpTKScwtax](https://zoom.us/rec/share/YhnkGvJ9XzHSqqbJDYb8hr-cOrv9NVbyIi3vHxUriYTI4RXl_yxzPLpoCcMtszg3.OEunZWRpTKScwtax)
+
+### Outputs/Agreed next steps
+Positions agreed:
+- *Co-chairs:* Mark Boyd, Pooja Vijay Kumar
+- *OAI liaison:* Budha Bhattacharya
+- *Ambassadors:* To be decided as needed, when we are commencing outreach with specific industry groups
+
+Workplan: Participants will review and we will discuss/finalise at next meeting
+Agreed to have a 15 minute addendum to the next meeting to progress the task: Develop document that clarifies the benefits of aligning with OpenAPI from a non-technical angle
+
+
 ## 9 February 2026 (HELD)
 ### Agenda
 - Introduce Special Interest Group and participants
@@ -20,6 +45,9 @@ This page includes links to the zoom meeting videos and transcripst for previous
 
 ### Attendance
 7 participants (Budha Bhattacharya, Mark Boyd, Pooja Vijay Kumar, Lorna Mitchell, Chris Robbertse, Chris Trujillo, Chris Wood)
+
+### Link to video
+[https://zoom.us/rec/play/OPni7emo6oTv4MLISI-SBJ7BLFYbJDliLzA9ksI14KNBmF-rmgNLXA2D8jS9EzrVGqqqmr_zHDfrLGfi.JjFPcgjysWz9YhRh](https://zoom.us/rec/play/OPni7emo6oTv4MLISI-SBJ7BLFYbJDliLzA9ksI14KNBmF-rmgNLXA2D8jS9EzrVGqqqmr_zHDfrLGfi.JjFPcgjysWz9YhRh)
 
 ### Outputs/Agreed next steps
 Agreed on goals for SIG for 2026:<br>
