@@ -2,7 +2,7 @@
 
 This page includes links to the zoom meeting videos and transcripst for previous meetings of the OpenAPI Industry Standards SIG
 
-## 9 March 2026
+## 9 March 2026 (UPCOMING)
 ### Agenda
 - Finalise proposed workplan (https://docs.google.com/document/d/1jAVdH_3D94VbNYDM06OvCl0TEUYyeurN_pHhGAp3THs/edit?usp=sharing)
 - Update on existing industry outreach:
