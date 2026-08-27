@@ -13,11 +13,13 @@ This Special Interest Group has been created to support industry standards bodie
 You can:
 - Share your thoughts on OpenAPI Slack and and join the #sig-industry-standards channel
 - Attend our biweekly meetings, contact us on Slack to confirm the next meeting date
+- [Nominate as an ambassador](https://github.com/OAI/sig-industry-standards/blob/main/SIG-Liaison-and-Ambassador-Guide.md) to work with a specific industry standards group to support them in using OpenAPI
 
 ### About this repo
 This repo covers two main topics:
 - Details about our SIG meetings and [work program](https://github.com/OAI/sig-industry-standards/blob/main/work-program.md)
 - A [directory about industry standards that are aligned with OpenAPI](https://github.com/OAI/sig-industry-standards/blob/main/Organizations.md) in some way, for example, their API standards explicitly mention that APIs should include an OpenAPI description for each API.
+- A [guide for ambassadors and industry liaison leads](https://github.com/OAI/sig-industry-standards/blob/main/SIG-Liaison-and-Ambassador-Guide.md) to work with industry standards group and support use of OpenAPI in their technical standards
 
 ### Slack channel
 Our main form of communication is via the Slack channel on the #sig-industry-standards  
@@ -26,7 +28,7 @@ Our main form of communication is via the Slack channel on the #sig-industry-sta
 - Join the #sig-industry-stds channel
 
 ### Meetings
-Meetings are held at 9.30 am Pacific Time, every second Monday, starting from 7 April 2025.
+Meetings are held at 10.30 am Pacific Time, every fpurth Friday.
 - Join the SIG Slack channel
 - We will add you to the invites for the meetings.
 
